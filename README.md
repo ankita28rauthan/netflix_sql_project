@@ -1,5 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-![Netflix Logo](![netflix logo](https://github.com/user-attachments/assets/58781d36-f1bc-419c-8bf7-ee7e913e0d9a)
+![Netflix Logo](![netflix_logo](https://github.com/user-attachments/assets/238bb1ab-cc73-4f17-b80e-d1875c679b63)
+
 )
 
 # objective
